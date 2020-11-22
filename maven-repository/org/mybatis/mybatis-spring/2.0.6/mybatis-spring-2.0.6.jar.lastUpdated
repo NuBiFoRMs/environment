@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 22 22:16:16 KST 2020
+https\://oss.sonatype.org/content/repositories/snapshots/.error=Could not transfer artifact org.mybatis\:mybatis-spring\:jar\:2.0.6 from/to sonatype-oss-snapshots (https\://oss.sonatype.org/content/repositories/snapshots)\: The operation was cancelled.
+@default-sonatype-oss-snapshots-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1606050597042
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.mybatis\:mybatis-spring\:jar\:2.0.6 from/to spring-snapshot (https\://repo.spring.io/snapshot)\: The operation was cancelled.
+@default-spring-snapshot-https\://repo.spring.io/snapshot/.lastUpdated=1606050597092
+@default-spring-milestone-https\://repo.spring.io/milestone/.lastUpdated=1606050597069
+https\://repo.maven.apache.org/maven2/.lastUpdated=1606050976043
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.mybatis\:mybatis-spring\:jar\:2.0.6 from/to spring-milestone (https\://repo.spring.io/milestone)\: The operation was cancelled.
